@@ -1,0 +1,24 @@
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\bin\Debug\Steganografia.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\bin\Debug\Steganografia.exe
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\bin\Debug\Steganografia.pdb
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.Form1.resources
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.Properties.Resources.resources
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.csproj.GenerateResource.Cache
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.exe
+c:\users\asia\documents\visual studio 2015\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.pdb
+G:\Steganografia\Steganografia\bin\Debug\Steganografia.exe.config
+G:\Steganografia\Steganografia\obj\Debug\Steganografia.exe
+G:\Steganografia\Steganografia\obj\Debug\Steganografia.pdb
+H:\Steganografia\Steganografia\bin\Debug\Steganografia.exe.config
+H:\Steganografia\Steganografia\obj\Debug\Steganografia.exe
+H:\Steganografia\Steganografia\obj\Debug\Steganografia.pdb
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\bin\Debug\Steganografia.exe.config
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\obj\Debug\Steganografia.exe
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\obj\Debug\Steganografia.pdb
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\bin\Debug\Steganografia.exe
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\bin\Debug\Steganografia.pdb
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\obj\Debug\Steganografia.csprojResolveAssemblyReference.cache
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\obj\Debug\Steganografia.Form1.resources
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\obj\Debug\Steganografia.Properties.Resources.resources
+I:\Polibuda\Semestr V\POD\Joanna_Chromińska_Steganografia\Steganografia\obj\Debug\Steganografia.csproj.GenerateResource.Cache
